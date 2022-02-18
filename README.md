@@ -4,7 +4,7 @@
 <table>
 <tr>
  <td valing=center>
-   🎓 I am currently pursuing my  <b>Bachelor's in Computer Science Engineering</b> . <br>
+   🎓 I am currently pursuing my <b>Bachelor's in Computer Science Engineering</b> . <br>
    🌱 I am currently learning  <b>Web Development</b>. <br>
    ✨ I love to work with different types of <b>tech stack</b>.
    <td>
