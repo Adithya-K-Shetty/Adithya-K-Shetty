@@ -3,15 +3,15 @@
 
 <table>
 <tr>
-  <td valign="center">
-    🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.
-    🌱 I am currently learning  **Web Development**.
-    ✨ I love to work with different types of tech stack.
- <td>
-    <!--<a href="https://app.daily.dev/Astrodevil"><img src="https://api.daily.dev/devcards/81fef2c2311f4739a063dbde61b40fe2.png?r=1fr" width="300" alt="Mr. Ånand's Dev Card"/>
-    -->
-</a>
-  </td>
+ <td valing=center>
+   🎓 I am currently pursuing my  <b>Bachelor's in Computer Science Engineering</b> . <br>
+   🌱 I am currently learning  <b>Web Development</b>. <br>
+   ✨ I love to work with different types of <b>tech stack</b>.
+   <td>
+           <a href="https://app.daily.dev/AdithyaKShetty"><img src="https://api.daily.dev/devcards/ab0528901be8435ababbc249d8386bec.png?r=dzl" width="400" alt="Adithya K Shetty's Dev Card"/></a>
 
+  </td>
 </tr>
 </table>
+
+ 
