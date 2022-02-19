@@ -8,7 +8,7 @@
    🌱 I am currently learning  <b>Web Development</b>. <br>
    ✨ I love to work with different types of <b>tech stack</b>.
    <td>
-     <img src="https://api.daily.dev/devcards/ab0528901be8435ababbc249d8386bec.png?r=xh5" width="400" alt="Adithya K Shetty's Dev Card"/>
+     <img src="https://api.daily.dev/devcards/ab0528901be8435ababbc249d8386bec.png?r=4no" width="400" alt="Adithya K Shetty's Dev Card"/>
   </td>
 </tr>
 </table>
