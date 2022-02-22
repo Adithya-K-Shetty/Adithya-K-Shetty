@@ -12,5 +12,9 @@
   </td>
 </tr>
 </table>
+<h2> Contribution Graph </h2>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Adithya-K-Shetty&theme=dracula&hide_border=true)
+
 
  
