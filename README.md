@@ -1,4 +1,4 @@
-# Hi, I'm <span style="color:red">**Adithya**</span> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=source+code+pro&color=%23F7F7F7&center=true&duration=4000&lines=Hi+there%F0%9F%91%8B%2C+I+am+Adithya+K+Shetty;I+am+a+Web+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)
 <!-- About Section -->
 
 <table>
