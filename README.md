@@ -4,9 +4,9 @@
 <table>
 <tr>
  <td valing=center>
-   🎓 I am currently pursuing my <b>Bachelor's in Computer Science Engineering</b> . <br>
-   🌱 I am currently into <b>Development</b>. <br>
-   ✨ I love to work with different types of <b>tech stack</b>.
+   <img width="520" alt="raycast-untitled (2)" src="https://user-images.githubusercontent.com/72254496/187012704-389bd67f-5e35-40be-93ff-eba3306fafb6.png">
+
+ </td>
    <td>
      <img src="https://api.daily.dev/devcards/ab0528901be8435ababbc249d8386bec.png?r=4no" width="400" alt="Adithya K Shetty's Dev Card"/>
   </td>
