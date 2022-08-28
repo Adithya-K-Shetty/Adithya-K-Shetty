@@ -24,6 +24,10 @@
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Adithya-K-Shetty&theme=dracula&hide_border=true" alt="Adithya-K-Shetty" />
 </p>
 
+---
+
+![Snake animation](https://github.com/Adithya-K-Shetty/Adithya-K-Shetty/blob/output/github-contribution-grid-snake.svg)
+
 
 
  
